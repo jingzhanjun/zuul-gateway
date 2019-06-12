@@ -1,0 +1,4 @@
+1.Zuul网关访问：
+localhost:9000/order/saveOrder可映射为：localhost:2000/order-service/order/saveOrder
+2.自定义网关映射：配置式
+3.ZuulFilter:指定某个URI的拦截策略，order值越小越先执行
