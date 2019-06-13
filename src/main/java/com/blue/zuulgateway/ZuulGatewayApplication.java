@@ -11,7 +11,7 @@ public class ZuulGatewayApplication {
     public static void main(String[] args) {
 
         SpringApplication.run(ZuulGatewayApplication.class, args);
-        System.out.println("this is dev3");
+        System.out.println("this is dev5");
     }
 
 }
